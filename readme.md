@@ -79,7 +79,7 @@ pip install langchain-openai
 
 - go to https://docs.langchain.com/oss/python/integrations/chat/azure_chat_openai
 
-and copy the below 
+- and copy the below 
 
 <img width="1383" height="807" alt="image" src="https://github.com/user-attachments/assets/99a191d1-061b-496c-874f-aee8ad8bd1bd" />
 

@@ -32,6 +32,8 @@ Once deployed, you’ll have access to your **Azure OpenAI resource**.
 It will appear in your list of deployed models.  
 This deployment name will be used later in your API calls.
 
+<img width="1461" height="637" alt="image" src="https://github.com/user-attachments/assets/bf5d8b60-aa04-4677-bdc4-f81c18970d9d" />
+
 ---
 
 ## 🔐 Step 3: Get Your API Keys and Endpoint
